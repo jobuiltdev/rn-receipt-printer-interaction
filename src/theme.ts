@@ -1,0 +1,1 @@
+export const palette = { ink: '#0B0D0C', panel: '#151816', line: '#2A2E2B', dim: '#646B66', muted: '#9BA29C', paper: '#F4F1E8', paperInk: '#151713', paperMuted: '#6F726B', lime: '#B9F55D', shadow: '#000000' };
